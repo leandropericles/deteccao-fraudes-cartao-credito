@@ -1,7 +1,7 @@
 # Detecção de Fraudes em Transações Financeiras
 
 Projeto de Machine Learning para identificação de fraudes em transações com cartão de crédito utilizando técnicas de classificação em bases altamente desbalanceadas.
-```
+```Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11oEYZfEFeHL6kpOROoW-2lQ4sr4eRPJB?usp=sharing)
 ```
 
