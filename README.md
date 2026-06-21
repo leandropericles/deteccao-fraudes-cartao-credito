@@ -1,4 +1,3 @@
-```markdown
 # Detecção de Fraudes em Transações Financeiras
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11oEYZfEFeHL6kpOROoW-2lQ4sr4eRPJB?usp=sharing)
@@ -19,4 +18,3 @@ Desenvolver um modelo capaz de identificar transações fraudulentas minimizando
 - Matplotlib
 - Seaborn
 - Google Colab
-```
